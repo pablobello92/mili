@@ -1,4 +1,4 @@
-window.alert("Toc toc ¡¡No repitas Código!!");
+// window.alert("Toc toc ¡¡No repitas Código!!");
 
 function hola(nombre) {
 	console.log("hola como andas" + nombre);
